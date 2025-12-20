@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6c0fe5a1-001b-477e-bb03-88747d323b2c
+
 # AI Fitness Assistant
 
 AI Fitness Assistant is an intelligent workout companion that combines a high-performance Python backend with a modern React + Vite frontend. It leverages **Retrieval-Augmented Generation (RAG)** to help users discover exercises, build routines, and receive AI-assisted fitness guidance based on curated datasets.
