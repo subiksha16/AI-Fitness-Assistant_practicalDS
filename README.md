@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/6c0fe5a1-001b-477e-bb03-88747d323b2c
+
 
 # AI Fitness Assistant
 
